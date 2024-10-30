@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majormyles
-- 👀 I’m interested in Java, Python, HTML & CSS, JS, Visual Basic (VB) & KOTLIN
-- 🌱 I’m currently learning Programming
+- 👀 Programming Languaes -> Java, Python,  HTML & CSS, JS, Visual Basic (VB) & KOTLIN
+- 🌱 Web Developer and Android app Dev. 
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me (majormilesvigour@gmail.com)
 
